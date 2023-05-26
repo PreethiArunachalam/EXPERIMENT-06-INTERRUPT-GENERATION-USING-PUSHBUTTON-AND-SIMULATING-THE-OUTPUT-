@@ -115,15 +115,15 @@ void HAL_GPIO_EXTI_Callback(uint16_t GPIO_Pin)
 ## Output screen shots of proteus  :
  ## LED OFF:
  
- ![image](https://github.com/PreethiArunachalam/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/120115840/90c91325-a6f7-47bd-86f6-702eded93faa)
+ ![image](https://github.com/PreethiArunachalam/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/120115840/b30113e0-33c3-4241-952d-fc8f01187db2)
 
 ## LED ON:
 
-![image](https://github.com/PreethiArunachalam/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/120115840/c3aab48c-c293-4fd8-8576-11faa4c0bd49)
+![image](https://github.com/PreethiArunachalam/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/120115840/b3239066-9b82-4a22-941d-72572cce04ac)
 
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
  
- ![image](https://github.com/PreethiArunachalam/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/120115840/0760739d-3901-4c9b-b6ca-e71600a1776e)
+ ![image](https://github.com/PreethiArunachalam/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/120115840/f82d7b9a-dcc3-48e5-ab2b-a2c581631c12)
  
 ## Result :
 Interfacing a push button and interrupt genrateion is simulated using proteus 
